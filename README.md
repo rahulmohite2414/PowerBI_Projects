@@ -100,4 +100,70 @@ Power-BI-Projects-and-Labs/
 ├── 01_Power_BI_Basics/
 ├── 02_Data_Import/
 ├── 03_Power_Query/
-├── 04_Data_C
+├── 04_Data_Cleaning/
+├── 05_Data_Modeling/
+├── 06_DAX_Functions/
+├── 07_Data_Visualization/
+├── 08_Interactive_Dashboards/
+├── 09_HR_Analytics/
+├── 10_Sales_Analysis/
+├── 11_Financial_Analysis/
+├── 12_Project_Screenshots/
+│
+└── README.md
+```
+
+## 🚀 Projects
+
+### 1. HR Analytics Dashboard
+- Total Employees
+- Employee Attrition
+- Attrition Rate
+- Average Age
+- Average Salary
+- Department-wise Analysis
+- Gender-wise Analysis
+- Education-wise Analysis
+- Employee Age Group Analysis
+
+### 2. Sales Analysis Dashboard
+- Total Sales
+- Profit Analysis
+- Sales by Region
+- Category-wise Performance
+- Monthly Sales Trends
+- Product Performance
+
+### 3. Financial Analysis Dashboard
+- Revenue Analysis
+- Expense Analysis
+- Profit and Loss
+- Financial KPIs
+- Monthly Performance
+
+## 🎯 Learning Objectives
+
+- Understand Power BI fundamentals.
+- Import and transform data.
+- Clean and prepare datasets.
+- Build data models and relationships.
+- Write DAX measures and calculated columns.
+- Create interactive dashboards.
+- Analyze business performance.
+- Generate meaningful business insights.
+
+## 👨‍💻 Author
+
+**Rahul Mohite**
+
+DSDA with AI Student | IT Vedant
+
+GitHub: rahulmohite2414
+
+## 📌 Purpose
+
+This repository represents my learning journey in Data Analytics and Business Intelligence through practical Power BI exercises, assignments, and real-world projects.
+
+---
+
+⭐ Thank you for visiting my Power BI Projects and Labs repository!
